@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T07:02:45Z" name="Default suite" finished-at="2024-07-20T07:02:52Z" duration-ms="7316">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T07:02:45Z" name="Default test" finished-at="2024-07-20T07:02:52Z" duration-ms="7316">
+      <class name="com.tools.qa.testcases.ElementsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tools.qa.testcases.ElementsPageTest@51549490]" started-at="2024-07-20T12:32:45Z" name="setUp" finished-at="2024-07-20T12:32:51Z" duration-ms="6837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyContactsPageLabel()[pri:1, instance:com.tools.qa.testcases.ElementsPageTest@51549490]" started-at="2024-07-20T12:32:51Z" name="verifyContactsPageLabel" finished-at="2024-07-20T12:32:52Z" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsPageLabel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tools.qa.testcases.ElementsPageTest@51549490]" started-at="2024-07-20T12:32:52Z" name="tearDown" finished-at="2024-07-20T12:32:52Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tools.qa.testcases.ElementsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
